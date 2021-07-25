@@ -1,0 +1,6 @@
+{
+	"name": "MyPython",
+	"image": "mypython",
+	"extensions": ["magicstack.magicpython","ms-python.python","njpwerner.autodocstring","tht13.python","tabnine.tabnine-vscode","littlefoxteam.vscode-python-test-adapter","ms-python.vscode-pylance"]
+	// "forwardPorts": []
+}
